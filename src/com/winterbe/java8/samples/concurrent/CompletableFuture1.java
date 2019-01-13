@@ -26,7 +26,7 @@ public class CompletableFuture1 {
      //5th comment
 
      //ext impt comment
-    	return "Hey my man";
+    	return "Hey brother";
 
 
     }
