@@ -19,5 +19,9 @@ public class CompletableFuture1 {
                 .thenAccept(v -> System.out.println("done"));
 
     }
+    
+    public String process() {
+    	return "Hey bro";
+    }
 
 }
