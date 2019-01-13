@@ -28,7 +28,7 @@ public class CompletableFuture1 {
      //ext impt comment
 
      //less imp comment
-    	return "Hey Hulkmaniac";
+    	return "Hey dude";
 
 
 
