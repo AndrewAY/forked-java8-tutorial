@@ -9,6 +9,8 @@ import java.util.stream.IntStream;
  * @author Benjamin Winterberg
  */
 public class Atomic1 {
+	
+	//test comment
 
     private static final int NUM_INCREMENTS = 1000;
 
